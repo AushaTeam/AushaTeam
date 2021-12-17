@@ -9,6 +9,16 @@
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
 </a>
 </p>
+<details>
+  <summary>📺 Latest YouTube Videos</summary>
+  
+<!-- YOUTUBE:START -->
+- [AushaTool Windows Tool Ipad Mini 1 Purple Mode with Arduino 2021](https://www.youtube.com/watch?v=4JO7RTyjq-s)
+- [Ipad 2,4 Bypass with SSH-Rdisk by Ausha Tool 2021](https://www.youtube.com/watch?v=wMk26sz_ayc)
+- [AushaTeam Purple Mode Mac Tool 2021, Iphone X Purple Mode and Edit SYSCFG with Just Usb cable](https://www.youtube.com/watch?v=EeMPa-26QLc)
+
+<!-- YOUTUBE:END -->
+</details>
 <!---
 AushaTeam/AushaTeam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
