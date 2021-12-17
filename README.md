@@ -16,6 +16,8 @@
 - [AushaTool Windows Tool Ipad Mini 1 Purple Mode with Arduino 2021](https://www.youtube.com/watch?v=4JO7RTyjq-s)
 - [Ipad 2,4 Bypass with SSH-Rdisk by Ausha Tool 2021](https://www.youtube.com/watch?v=wMk26sz_ayc)
 - [AushaTeam Purple Mode Mac Tool 2021, Iphone X Purple Mode and Edit SYSCFG with Just Usb cable](https://www.youtube.com/watch?v=EeMPa-26QLc)
+- [Iphone 6s-X MAC/BT Binary Backup -Ausha Team](https://www.youtube.com/watch?v=D9R9vlhLo1A)
+- [AushaTeam - Youtube Link -@BAYOO](https://www.youtube.com/channel/UCq3hQuyLMOoJclkeC7k1xiw)
 
 <!-- YOUTUBE:END -->
 </details>
